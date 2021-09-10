@@ -44,20 +44,24 @@ namespace array_assignment
             Console.WriteLine("What do you choose?");
             foreach (string item in attackMethod)
             {
-                Console.WriteLine(item);
+                Console.Write(item + " ");
             }
             string chosenAttackMethod = Console.ReadLine();
-            Console.WriteLine("You chose the " + chosenAttackMethod);
-            System.Threading.Thread.Sleep(2000);
+            Console.Write("You chose the " );
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write(chosenAttackMethod);
+            Console.ResetColor();
+            System.Threading.Thread.Sleep(3000);
+            Console.Clear();
             Console.WriteLine("You advance to the next room.");
-            System.Threading.Thread.Sleep(2000);
+            System.Threading.Thread.Sleep(3000);
 
             //room 2
             Console.Write("You encounter the ");
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Wizard of Crescent Moons");
             Console.ResetColor();
-            System.Threading.Thread.Sleep(2000);
+            System.Threading.Thread.Sleep(3000);
             Console.WriteLine("He presents you with 6 doors, which door do you choose?");
             foreach (int item in doorNumber)
             {
@@ -68,21 +72,67 @@ namespace array_assignment
             if (chosenDoor > 6 || chosenDoor == 0)
             {
                 Console.WriteLine("The wizard looks at you with an unpleasant grin");
-                System.Threading.Thread.Sleep(2000);
+                System.Threading.Thread.Sleep(3000);
                 Console.Write("Unamused, the wizard casts ");
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("fireball");
+                Console.Write("fireball");
                 Console.ResetColor();
-                Console.WriteLine(" on you");
-                System.Threading.Thread.Sleep(2000);
-                Console.WriteLine("You are dead.");
-                System.Threading.Thread.Sleep(2000);
+                Console.Write(" on you");
+                System.Threading.Thread.Sleep(3000);
+                Console.WriteLine(" Oh dear. You are dead.");
+                System.Threading.Thread.Sleep(3000);
                 Environment.Exit(0);
             }
             Console.WriteLine("You chose door " + chosenDoor);
-            
+            System.Threading.Thread.Sleep(2000);
+            Console.Clear();
+
 
             //room 3
+            Console.Write("Well done, you have reached the end. You encounter a ");
+            Console.ForegroundColor = ConsoleColor.DarkMagenta;
+            Console.WriteLine(" treasure chest");
+            Console.ResetColor();
+            System.Threading.Thread.Sleep(3000);
+            foreach (string item in treasureLoot)
+            {
+                Console.WriteLine(item);
+            }
+            System.Threading.Thread.Sleep(3000);
+            Console.WriteLine("Choose your reward: (1-5)");
+            string uc = Console.ReadLine();
+            int userChoice = Convert.ToInt32(uc);
+            if (userChoice == 1)
+            {
+                Console.WriteLine("Congratulations, you have finished the gauntlet and earned a " + treasureLoot[0]);
+                Console.ReadLine();
+            }
+            else if (userChoice == 2)
+            {
+                Console.WriteLine("Congratulations, you have finished the gauntlet and earned a " + treasureLoot[1]);
+                Console.ReadLine();
+            }
+            else if (userChoice == 3)
+            {
+                Console.WriteLine("Congratulations, you have finished the gauntlet and earned a " + treasureLoot[2]);
+                Console.ReadLine();
+            }
+            else if (userChoice == 4)
+            {
+                Console.WriteLine("Congratulations, you have finished the gauntlet and earned a " + treasureLoot[3]);
+                Console.ReadLine();
+            }
+            else if (userChoice == 5)
+            {
+                Console.WriteLine("Congratulations, you have finished the gauntlet and earned a " + treasureLoot[4]);
+                Console.ReadLine();
+            }
+            else
+            {
+                Console.WriteLine("You broke me somehow, well done!");
+                Console.ReadLine();
+            }
+            Environment.Exit(0);
 
         }
     }
