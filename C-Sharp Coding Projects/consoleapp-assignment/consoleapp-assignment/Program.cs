@@ -74,24 +74,24 @@ namespace consoleapp_assignment
             //part 5
 
             List<string> tvshows = new List<string>();
+            List<string> duplicates = new List<string>();
             tvshows.Add("WandaVision");
             tvshows.Add("Captain America and the Winter Soldier");
             tvshows.Add("Loki");
             tvshows.Add("What If");
             tvshows.Add("WandaVision");
 
-            Console.WriteLine("Enter a tv show to check our current listings:");
-            string searchQuery = Console.ReadLine();
-
             foreach (string tvshow in tvshows)
             {
-                if (searchQuery.Contains(tvshow))
+                if (duplicates.Contains(tvshow))
                 {
-                    Console.WriteLine("We have this title and it has an index of: " + tvshows.IndexOf(searchQuery));
+                    Console.Write(tvshow);
+                    Console.Write(" and it is a duplicate");
                 }
                 else
                 {
-                    Console.WriteLine("Sorry, we don't yet have this title.");
+                    duplicates.Add(tvshow);
+                    Console.WriteLine(tvshow);
                 }
             }
             Console.ReadLine();
