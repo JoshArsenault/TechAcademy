@@ -71,7 +71,7 @@ namespace consoleapp_assignment
             //}
             //Console.ReadLine();
 
-            //part 5
+            //part 5 & 6
 
             List<string> tvshows = new List<string>();
             List<string> duplicates = new List<string>();
