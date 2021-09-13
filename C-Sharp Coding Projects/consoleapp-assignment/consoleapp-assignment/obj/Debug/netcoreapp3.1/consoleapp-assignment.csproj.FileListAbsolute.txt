@@ -1,0 +1,13 @@
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/bin/Debug/netcoreapp3.1/consoleapp-assignment.deps.json
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/bin/Debug/netcoreapp3.1/consoleapp-assignment.runtimeconfig.json
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/bin/Debug/netcoreapp3.1/consoleapp-assignment.runtimeconfig.dev.json
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/bin/Debug/netcoreapp3.1/consoleapp-assignment.dll
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/bin/Debug/netcoreapp3.1/consoleapp-assignment.pdb
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.csproj.AssemblyReference.cache
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.AssemblyInfoInputs.cache
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.AssemblyInfo.cs
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.csproj.CoreCompileInputs.cache
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.dll
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.pdb
+/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/consoleapp-assignment/consoleapp-assignment/obj/Debug/netcoreapp3.1/consoleapp-assignment.genruntimeconfig.cache
