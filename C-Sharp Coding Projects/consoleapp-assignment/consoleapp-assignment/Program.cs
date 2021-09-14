@@ -85,7 +85,7 @@ namespace consoleapp_assignment
             {
                 if (duplicates.Contains(tvshow))
                 {
-                    Console.Write(tvshow + " and it is a duplicate");
+                    Console.WriteLine(tvshow + " and it is a duplicate");
                 }
                 else
                 {
