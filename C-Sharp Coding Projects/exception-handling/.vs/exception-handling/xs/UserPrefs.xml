@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B961B45B-254C-4A2A-A452-F56BD208E126}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exception-handling/Program.cs">
+    <Files>
+      <File FileName="exception-handling/Program.cs" Line="47" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exception-handling" expanded="True">
+            <Node name="exception-handling" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.exception-handling FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
