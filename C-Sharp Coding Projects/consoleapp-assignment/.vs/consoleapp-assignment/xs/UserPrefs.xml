@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{3B539547-3F32-413F-9F25-0FA4081ED0A0}|Default">
-  <MonoDevelop.Ide.ItemProperties.consoleapp-assignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.consoleapp-assignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="consoleapp-assignment/Program.cs">
     <Files>
-      <File FileName="consoleapp-assignment/Program.cs" Line="23" Column="32" />
+      <File FileName="consoleapp-assignment/Program.cs" Line="88" Column="74" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
