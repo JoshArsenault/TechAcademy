@@ -1,0 +1,13 @@
+/Users/josharsenault/Projects/twenty-one/twenty-one/bin/Debug/netcoreapp3.1/twenty-one.deps.json
+/Users/josharsenault/Projects/twenty-one/twenty-one/bin/Debug/netcoreapp3.1/twenty-one.runtimeconfig.json
+/Users/josharsenault/Projects/twenty-one/twenty-one/bin/Debug/netcoreapp3.1/twenty-one.runtimeconfig.dev.json
+/Users/josharsenault/Projects/twenty-one/twenty-one/bin/Debug/netcoreapp3.1/twenty-one.dll
+/Users/josharsenault/Projects/twenty-one/twenty-one/bin/Debug/netcoreapp3.1/twenty-one.pdb
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.csproj.AssemblyReference.cache
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.AssemblyInfoInputs.cache
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.AssemblyInfo.cs
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.csproj.CoreCompileInputs.cache
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.dll
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.pdb
+/Users/josharsenault/Projects/twenty-one/twenty-one/obj/Debug/netcoreapp3.1/twenty-one.genruntimeconfig.cache
