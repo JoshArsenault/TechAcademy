@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/josharsenault/Projects/twenty-one/twenty-one/twenty-one.csproj": {}
+    "/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/twenty-one/twenty-one/twenty-one.csproj": {}
   },
   "projects": {
-    "/Users/josharsenault/Projects/twenty-one/twenty-one/twenty-one.csproj": {
+    "/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/twenty-one/twenty-one/twenty-one.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/josharsenault/Projects/twenty-one/twenty-one/twenty-one.csproj",
+        "projectUniqueName": "/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/twenty-one/twenty-one/twenty-one.csproj",
         "projectName": "twenty-one",
-        "projectPath": "/Users/josharsenault/Projects/twenty-one/twenty-one/twenty-one.csproj",
+        "projectPath": "/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/twenty-one/twenty-one/twenty-one.csproj",
         "packagesPath": "/Users/josharsenault/.nuget/packages/",
-        "outputPath": "/Users/josharsenault/Projects/twenty-one/twenty-one/obj/",
+        "outputPath": "/Users/josharsenault/Documents/Github/tech-academy/C-Sharp Coding Projects/twenty-one/twenty-one/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/josharsenault/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

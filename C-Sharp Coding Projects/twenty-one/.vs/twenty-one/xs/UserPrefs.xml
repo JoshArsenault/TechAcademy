@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.ItemProperties.twenty-one PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="twenty-one/Program.cs">
     <Files>
-      <File FileName="twenty-one/Program.cs" Line="19" Column="49" />
-      <File FileName="twenty-one/Card.cs" Line="9" Column="26" />
-      <File FileName="twenty-one/Deck.cs" Line="28" Column="37" />
+      <File FileName="twenty-one/Program.cs" Line="14" Column="34" />
+      <File FileName="twenty-one/Card.cs" />
+      <File FileName="twenty-one/Deck.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
