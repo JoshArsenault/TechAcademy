@@ -46,6 +46,24 @@ namespace ClassesAndMethodsPartOne
             Console.WriteLine("Press enter to continue to next method:");
             Console.ReadLine();
             Console.Clear();
+
+            //========================================================
+            // Part Three                                           //
+            //========================================================
+
+            //get numbers from user
+            Console.WriteLine("Please enter a number:");
+            int firstNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter another number:");
+            int secondNumber = Convert.ToInt32(Console.ReadLine());
+
+            //display answer to user
+            Console.WriteLine("Your numbers added together equal: " +
+                simplemath.AddNumbers(firstNumber, secondNumber));
+
+            //end program
+            Console.ReadLine();
+            Environment.Exit(0);
         }
     }
 }

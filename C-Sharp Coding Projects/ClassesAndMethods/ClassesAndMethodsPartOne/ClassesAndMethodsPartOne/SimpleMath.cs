@@ -14,5 +14,13 @@ namespace ClassesAndMethodsPartOne
         {
             return num1 + num2;
         }
+
+        //adding "string" types
+        public int AddNumbers(string num1, string num2)
+        {
+            int firstNumber = Convert.ToInt32(num1);
+            int secondNumber = Convert.ToInt32(num2);
+            return firstNumber + secondNumber;
+        }
     }
 }
