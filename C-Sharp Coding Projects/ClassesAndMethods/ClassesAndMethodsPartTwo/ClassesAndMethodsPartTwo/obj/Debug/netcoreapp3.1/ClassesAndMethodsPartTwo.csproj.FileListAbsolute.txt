@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/bin/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.deps.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/bin/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.runtimeconfig.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/bin/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/bin/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/bin/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassesAndMethods/ClassesAndMethodsPartTwo/ClassesAndMethodsPartTwo/obj/Debug/netcoreapp3.1/ClassesAndMethodsPartTwo.genruntimeconfig.cache

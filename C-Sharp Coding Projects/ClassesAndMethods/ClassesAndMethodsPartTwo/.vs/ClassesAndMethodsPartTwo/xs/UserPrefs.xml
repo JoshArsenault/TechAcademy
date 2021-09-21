@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{26BBBF67-C00F-44DB-B073-426F313C2E5B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndMethodsPartTwo/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassesAndMethodsPartTwo/Methods.cs">
     <Files>
       <File FileName="ClassesAndMethodsPartTwo/Program.cs" Line="1" Column="1" />
+      <File FileName="ClassesAndMethodsPartTwo/Methods.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ClassesAndMethodsPartTwo" expanded="True">
             <Node name="ClassesAndMethodsPartTwo" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Methods.cs" selected="True" />
             </Node>
           </Node>
         </State>
