@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{7F89A4D5-B832-4B86-B2A9-A51A8EC45CF0}|Default">
-  <MonoDevelop.Ide.ItemProperties.ClassMethodAssignment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClassMethodAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClassMethodAssignment/Program.cs">
+    <Files>
+      <File FileName="ClassMethodAssignment/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ClassMethodAssignment" expanded="True">
+            <Node name="ClassMethodAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
