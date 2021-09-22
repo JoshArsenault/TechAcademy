@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/bin/Debug/netcoreapp3.1/ClassMethodAssignment.deps.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/bin/Debug/netcoreapp3.1/ClassMethodAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/bin/Debug/netcoreapp3.1/ClassMethodAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/bin/Debug/netcoreapp3.1/ClassMethodAssignment.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/bin/Debug/netcoreapp3.1/ClassMethodAssignment.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/ClassMethodAssignment/ClassMethodAssignment/obj/Debug/netcoreapp3.1/ClassMethodAssignment.genruntimeconfig.cache
