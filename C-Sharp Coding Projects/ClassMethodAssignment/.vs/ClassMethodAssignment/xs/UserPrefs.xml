@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.ClassMethodAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ClassMethodAssignment/Program.cs">
     <Files>
-      <File FileName="ClassMethodAssignment/Program.cs" Line="30" Column="44" />
-      <File FileName="ClassMethodAssignment/MultiplyOrDivide.cs" />
+      <File FileName="ClassMethodAssignment/Program.cs" Line="5" Column="25" />
+      <File FileName="ClassMethodAssignment/MultiplyOrDivide.cs" Line="4" Column="12" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

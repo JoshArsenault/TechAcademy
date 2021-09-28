@@ -3,8 +3,8 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesAssignment/Program.cs">
     <Files>
       <File FileName="InterfacesAssignment/Program.cs" Line="24" Column="14" />
-      <File FileName="InterfacesAssignment/IQuittable.cs" Line="6" Column="30" />
-      <File FileName="InterfacesAssignment/Employee.cs" Line="5" Column="6" />
+      <File FileName="InterfacesAssignment/IQuittable.cs" />
+      <File FileName="InterfacesAssignment/Employee.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
