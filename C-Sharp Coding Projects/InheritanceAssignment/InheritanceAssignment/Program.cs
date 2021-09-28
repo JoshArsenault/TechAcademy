@@ -6,7 +6,11 @@ namespace InheritanceAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
+            employee.SayName();
+
+            //delay
+            Console.ReadLine();
         }
     }
 }
