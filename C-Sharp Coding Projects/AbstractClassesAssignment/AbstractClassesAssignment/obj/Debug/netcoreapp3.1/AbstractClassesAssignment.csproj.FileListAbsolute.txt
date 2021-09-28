@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/bin/Debug/netcoreapp3.1/AbstractClassesAssignment.deps.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/bin/Debug/netcoreapp3.1/AbstractClassesAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/bin/Debug/netcoreapp3.1/AbstractClassesAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/bin/Debug/netcoreapp3.1/AbstractClassesAssignment.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/bin/Debug/netcoreapp3.1/AbstractClassesAssignment.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.dll
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.pdb
+/Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/AbstractClassesAssignment/AbstractClassesAssignment/obj/Debug/netcoreapp3.1/AbstractClassesAssignment.genruntimeconfig.cache
