@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.OperatorOverloading PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="OperatorOverloading/Program.cs">
     <Files>
-      <File FileName="OperatorOverloading/Program.cs" Line="14" Column="32" />
-      <File FileName="OperatorOverloading/Employee.cs" />
+      <File FileName="OperatorOverloading/Program.cs" Line="15" Column="32" />
+      <File FileName="OperatorOverloading/Employee.cs" Line="11" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
