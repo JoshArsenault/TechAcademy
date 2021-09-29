@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EF9CE48C-6BCF-4BDB-8442-9EB36D1B9ABD}|Default">
+  <MonoDevelop.Ide.ItemProperties.OperatorOverloading FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OperatorOverloading/Program.cs">
+    <Files>
+      <File FileName="OperatorOverloading/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OperatorOverloading" expanded="True">
+            <Node name="OperatorOverloading" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
