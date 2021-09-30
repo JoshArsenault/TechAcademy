@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5679DB30-2B34-41BA-B282-C7E911A99785}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GenericsAssignment/Program.cs">
+    <Files>
+      <File FileName="GenericsAssignment/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GenericsAssignment" expanded="True">
+            <Node name="GenericsAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GenericsAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
