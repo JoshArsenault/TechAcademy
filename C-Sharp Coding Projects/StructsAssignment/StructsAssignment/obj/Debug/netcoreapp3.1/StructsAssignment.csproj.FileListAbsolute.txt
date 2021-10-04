@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/bin/Debug/netcoreapp3.1/StructsAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/bin/Debug/netcoreapp3.1/StructsAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/bin/Debug/netcoreapp3.1/StructsAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/bin/Debug/netcoreapp3.1/StructsAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/bin/Debug/netcoreapp3.1/StructsAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StructsAssignment/StructsAssignment/obj/Debug/netcoreapp3.1/StructsAssignment.genruntimeconfig.cache
