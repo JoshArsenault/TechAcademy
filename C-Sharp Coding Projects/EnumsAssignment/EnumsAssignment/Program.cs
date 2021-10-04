@@ -17,14 +17,22 @@ namespace EnumsAssignment
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Please enter the current day");
-            string input = Console.ReadLine();
+            try
+            {
+                Console.WriteLine("Please enter the current day");
+                string input = Console.ReadLine();
 
-            DaysInWeek day = (DaysInWeek)Enum.Parse(typeof(DaysInWeek), input);
+                DaysInWeek day = (DaysInWeek)Enum.Parse(typeof(DaysInWeek), input);
 
-            Console.WriteLine("The current day is " + day);
+                Console.WriteLine("The current day is " + day);
 
-            Console.ReadLine();
+                Console.ReadLine();
+            }
+            catch
+            {
+                throw new NotImplementedException();
+            }
+            
         }
     }
 }
