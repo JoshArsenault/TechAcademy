@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshcummings/Desktop/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj": {}
+    "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj": {}
   },
   "projects": {
-    "/Users/joshcummings/Desktop/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj": {
+    "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshcummings/Desktop/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj",
+        "projectUniqueName": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj",
         "projectName": "EnumsAssignment",
-        "projectPath": "/Users/joshcummings/Desktop/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj",
+        "projectPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/EnumsAssignment.csproj",
         "packagesPath": "/Users/joshcummings/.nuget/packages/",
-        "outputPath": "/Users/joshcummings/Desktop/EnumsAssignment/EnumsAssignment/obj/",
+        "outputPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joshcummings/.config/NuGet/NuGet.Config"

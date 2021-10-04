@@ -27,19 +27,19 @@ namespace EnumsAssignment
             //get details from user
             Console.WriteLine("Please enter current day of the week");
             Console.WriteLine("1: Sunday, 2: Monday, 3: Tuesday, 4: Wednesday, 5: Thursday, 6: Friday, 7: Saturday");
-            int input = Convert.ToInt32(Console.ReadLine());
+            string input = Console.ReadLine();
             string currentDay = null;
 
             //generate current day from enums
             try
             {
-                if (input == 1) { currentDay = DaysInWeek.Sunday.ToString(); }
-                else if (input == 2) { currentDay = DaysInWeek.Monday.ToString(); }
-                else if (input == 3) { currentDay = DaysInWeek.Tuesday.ToString(); }
-                else if (input == 4) { currentDay = DaysInWeek.Wednesday.ToString(); }
-                else if (input == 5) { currentDay = DaysInWeek.Thursday.ToString(); }
-                else if (input == 6) { currentDay = DaysInWeek.Friday.ToString(); }
-                else if (input == 7) { currentDay = DaysInWeek.Saturday.ToString(); }
+                if (input == "Sunday") { currentDay = DaysInWeek.Sunday.ToString(); }
+                else if (input == "Monday") { currentDay = DaysInWeek.Monday.ToString(); }
+                else if (input == "Tuesday") { currentDay = DaysInWeek.Tuesday.ToString(); }
+                else if (input == "Wednesday") { currentDay = DaysInWeek.Wednesday.ToString(); }
+                else if (input == "Thursday") { currentDay = DaysInWeek.Thursday.ToString(); }
+                else if (input == "Friday") { currentDay = DaysInWeek.Friday.ToString(); }
+                else if (input == "Saturday") { currentDay = DaysInWeek.Saturday.ToString(); }
                 else { Retry(); }
 
                 Console.WriteLine("The current day is: " + currentDay);
