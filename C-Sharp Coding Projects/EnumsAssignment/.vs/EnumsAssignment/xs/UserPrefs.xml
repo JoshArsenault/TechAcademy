@@ -1,22 +1,4 @@
-﻿<Properties StartupConfiguration="{3CFF29EC-7276-4E30-B5FE-1BFC01A864A5}|Default">
-  <MonoDevelop.Ide.ItemProperties.EnumsAssignment PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="EnumsAssignment" expanded="True">
-            <Node name="EnumsAssignment" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{1B0B1C4F-4C67-4FC2-ADE2-FF6A0F132754}|Default">
+  <MonoDevelop.Ide.ItemProperties.EnumsAssignment FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
