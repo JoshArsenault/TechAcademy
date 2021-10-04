@@ -1,4 +1,25 @@
 ﻿<Properties StartupConfiguration="{1B0B1C4F-4C67-4FC2-ADE2-FF6A0F132754}|Default">
-  <MonoDevelop.Ide.ItemProperties.EnumsAssignment FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EnumsAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EnumsAssignment/Program.cs">
+    <Files>
+      <File FileName="EnumsAssignment/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EnumsAssignment" expanded="True">
+            <Node name="EnumsAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
