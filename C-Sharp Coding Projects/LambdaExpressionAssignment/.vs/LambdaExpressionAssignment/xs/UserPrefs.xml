@@ -1,16 +1,15 @@
 ﻿<Properties StartupConfiguration="{FBCB9A73-51C8-4937-82CD-EA39933ABACF}|Default">
-  <MonoDevelop.Ide.ItemProperties.LambdaExpressionAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.LambdaExpressionAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="LambdaExpressionAssignment/Program.cs">
     <Files>
-      <File FileName="LambdaExpressionAssignment/Program.cs" Line="1" Column="1" />
+      <File FileName="LambdaExpressionAssignment/Program.cs" Line="33" Column="35" />
+      <File FileName="LambdaExpressionAssignment/Employee.cs" Line="5" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="LambdaExpressionAssignment" expanded="True">
-            <Node name="LambdaExpressionAssignment" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="LambdaExpressionAssignment" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>

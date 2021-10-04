@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/netcoreapp3.1/LambdaExpressionAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/netcoreapp3.1/LambdaExpressionAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/netcoreapp3.1/LambdaExpressionAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/netcoreapp3.1/LambdaExpressionAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/bin/Debug/netcoreapp3.1/LambdaExpressionAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/LambdaExpressionAssignment/LambdaExpressionAssignment/obj/Debug/netcoreapp3.1/LambdaExpressionAssignment.genruntimeconfig.cache
