@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj": {}
+    "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj": {}
   },
   "projects": {
-    "/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj": {
+    "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj",
+        "projectUniqueName": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj",
         "projectName": "GenericsAssignment",
-        "projectPath": "/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj",
+        "projectPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/GenericsAssignment/GenericsAssignment/GenericsAssignment.csproj",
         "packagesPath": "/Users/joshcummings/.nuget/packages/",
-        "outputPath": "/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/",
+        "outputPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/GenericsAssignment/GenericsAssignment/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/joshcummings/.config/NuGet/NuGet.Config"

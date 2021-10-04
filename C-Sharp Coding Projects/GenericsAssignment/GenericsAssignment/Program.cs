@@ -7,25 +7,29 @@ namespace GenericsAssignment
     {
         static void Main(string[] args)
         {
-            //first employee
+            //employee one
             Employee<string> EmployeeOne = new Employee<string>();
-            EmployeeOne.Things.Add("Goldfish");
-            EmployeeOne.Things.Add("Bucket of buckets");
-            EmployeeOne.Things.Add("Gum from under his seat");
+            EmployeeOne.Things = new List<string>();
+            EmployeeOne.Things.Add("Chicken");
+            EmployeeOne.Things.Add("Turkey");
+            EmployeeOne.Things.Add("Salmon");
 
-            //second employee
+            //employee two
             Employee<int> EmployeeTwo = new Employee<int>();
+            EmployeeTwo.Things = new List<int>();
             EmployeeTwo.Things.Add(15);
             EmployeeTwo.Things.Add(20);
             EmployeeTwo.Things.Add(30);
 
-            //loop
-            foreach (string thingStr in EmployeeOne.Things)
+            //loop through things
+            foreach (string thing in EmployeeOne.Things)
             {
-                foreach (int thingInt in EmployeeTwo.Things)
-                {
-                    Console.WriteLine(thingStr + thingInt);
-                }
+                Console.WriteLine(thing);
+            }
+
+            foreach (int thing in EmployeeTwo.Things)
+            {
+                Console.WriteLine(thing);
             }
             Console.ReadLine();
         }
