@@ -31,6 +31,31 @@ namespace LambdaExpressionAssignment
             EmployeeList.Add(e8);
             EmployeeList.Add(e9);
             EmployeeList.Add(e10);
+
+            //get duplicate count
+            //List<string> MatchingFirstNames = new List<string>();
+            //foreach (Employee employee in EmployeeList)
+            //{
+            //    if (employee.FirstName == "Joe")
+            //    {
+            //        MatchingFirstNames.Add(employee.FirstName);
+            //    }
+            //}
+            //Console.WriteLine("Matches: " + MatchingFirstNames.Count);
+            //Console.ReadLine();
+
+            //lambda expression
+            //List<Employee> MatchingRecords = EmployeeList.FindAll(x => x.FirstName == "Joe");
+
+            //Console.WriteLine("Matches: " + MatchingRecords.Count);
+
+            //Console.ReadLine();
+
+            List<Employee> IdGreaterThan5 = EmployeeList.FindAll(x => x.Id > 5);
+
+            Console.WriteLine("Matches: " + IdGreaterThan5.Count);
+
+            Console.ReadLine();
         }
     }
 }
