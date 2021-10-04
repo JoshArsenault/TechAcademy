@@ -9,14 +9,14 @@ namespace GenericsAssignment
         {
             //employee one
             Employee<string> EmployeeOne = new Employee<string>();
-            EmployeeOne.Things = new List<string>();
+            EmployeeOne.Things = new List<string>(); //need to also instanciate list
             EmployeeOne.Things.Add("Chicken");
             EmployeeOne.Things.Add("Turkey");
             EmployeeOne.Things.Add("Salmon");
 
             //employee two
             Employee<int> EmployeeTwo = new Employee<int>();
-            EmployeeTwo.Things = new List<int>();
+            EmployeeTwo.Things = new List<int>(); //need to also instanciate list
             EmployeeTwo.Things.Add(15);
             EmployeeTwo.Things.Add(20);
             EmployeeTwo.Things.Add(30);
