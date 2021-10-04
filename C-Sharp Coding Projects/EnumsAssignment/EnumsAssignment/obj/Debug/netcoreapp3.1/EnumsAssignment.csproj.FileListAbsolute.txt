@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/bin/Debug/netcoreapp3.1/EnumsAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/bin/Debug/netcoreapp3.1/EnumsAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/bin/Debug/netcoreapp3.1/EnumsAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/bin/Debug/netcoreapp3.1/EnumsAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/bin/Debug/netcoreapp3.1/EnumsAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/EnumsAssignment/EnumsAssignment/obj/Debug/netcoreapp3.1/EnumsAssignment.genruntimeconfig.cache
