@@ -1,0 +1,13 @@
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/bin/Debug/netcoreapp3.1/GenericsAssignment.deps.json
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/bin/Debug/netcoreapp3.1/GenericsAssignment.runtimeconfig.json
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/bin/Debug/netcoreapp3.1/GenericsAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/bin/Debug/netcoreapp3.1/GenericsAssignment.dll
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/bin/Debug/netcoreapp3.1/GenericsAssignment.pdb
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.AssemblyInfo.cs
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.dll
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.pdb
+/Users/joshcummings/Desktop/GenericsAssignment/GenericsAssignment/obj/Debug/netcoreapp3.1/GenericsAssignment.genruntimeconfig.cache
