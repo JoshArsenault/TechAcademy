@@ -11,3 +11,10 @@
 /Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.dll
 /Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.pdb
 /Users/joshcummings/Documents/Github/tech-academy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.genruntimeconfig.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/Debug/netcoreapp3.1/TwentyOne.pdb
