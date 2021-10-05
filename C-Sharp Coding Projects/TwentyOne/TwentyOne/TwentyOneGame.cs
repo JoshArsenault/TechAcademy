@@ -1,16 +1,10 @@
 ﻿using System;
 namespace TwentyOne
 {
-    public class TwentyOneGame : Game
+    public class TwentyOneGame
     {
-        public override void Play()
+        public TwentyOneGame()
         {
-            throw new NotImplementedException();
-        }
-        public override void ListPlayers()
-        {
-            Console.WriteLine("21 Players:");
-            base.ListPlayers();
         }
     }
 }

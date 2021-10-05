@@ -1,16 +1,18 @@
-﻿<Properties StartupConfiguration="{14B6EDDA-4197-428F-BBC0-549432CD130A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/Program.cs">
+﻿<Properties StartupConfiguration="{7434AB0D-3EA3-4353-88D5-372C54C4E225}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TwentyOne/TwentyOneGame.cs">
     <Files>
-      <File FileName="TwentyOne/Program.cs" Line="23" Column="51" />
-      <File FileName="TwentyOne/Card.cs" />
-      <File FileName="TwentyOne/Deck.cs" />
+      <File FileName="TwentyOne/Program.cs" Line="20" Column="49" />
+      <File FileName="TwentyOne/Player.cs" Line="13" Column="10" />
+      <File FileName="TwentyOne/Card.cs" Line="2" Column="34" />
+      <File FileName="TwentyOne/Game.cs" Line="20" Column="10" />
+      <File FileName="TwentyOne/TwentyOneGame.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOne" expanded="True">
             <Node name="TwentyOne" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="TwentyOneGame.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TwentyOne PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.TwentyOne FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
