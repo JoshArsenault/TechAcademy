@@ -30,7 +30,7 @@ namespace TwentyOne
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
                 bool successfullyBet = player.Bet(bet);
-                if (!successfullyBet == false)
+                if (!successfullyBet)
                 {
                     return;
                 }
@@ -100,10 +100,12 @@ namespace TwentyOne
                         if (answer == "yes" || answer == "yeah")
                         {
                             player.isActivelyPlaying = true;
+                            return;
                         }
                         else
                         {
                             player.isActivelyPlaying = false;
+                            return;
                         }
                     }
                 }
