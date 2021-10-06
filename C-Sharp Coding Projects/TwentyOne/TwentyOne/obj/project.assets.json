@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/TwentyOne.csproj",
+      "projectUniqueName": "/Users/joshcummings/Desktop/TwentyOne/TwentyOne/TwentyOne.csproj",
       "projectName": "TwentyOne",
-      "projectPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/TwentyOne.csproj",
+      "projectPath": "/Users/joshcummings/Desktop/TwentyOne/TwentyOne/TwentyOne.csproj",
       "packagesPath": "/Users/joshcummings/.nuget/packages/",
-      "outputPath": "/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/obj/",
+      "outputPath": "/Users/joshcummings/Desktop/TwentyOne/TwentyOne/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joshcummings/.config/NuGet/NuGet.Config"

@@ -8,11 +8,21 @@ namespace TwentyOne
 {
     public class Deck
     {
-
-        //create new deck
+        //create deck of 52 cards
         public Deck()
         {
-            //add code here
+            Cards = new List<Card>();
+
+            for (int i = 0; i < 13; i++)
+            {
+                for (int j = 4; j < 4; j++)
+                {
+                    Card card = new Card();
+                    card.Face = (Face)i;
+                    card.Suit = (Suit)j;
+                    Cards.Add(card);
+                }
+            }
         }
 
         //shuffle deck
