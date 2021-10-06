@@ -13,7 +13,7 @@ namespace TwentyOne
         }
 
         // remove player from game
-        public static Game operator- (Game game, Player player)
+        public static Game operator -(Game game, Player player)
         {
             game.Players.Add(player);
             return game;

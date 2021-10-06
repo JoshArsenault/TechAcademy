@@ -6,7 +6,17 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+
+
+
+            //testing
+
+            Deck deck = new Deck();
+
+            Console.WriteLine(deck);
+
+            Console.ReadLine();
         }
     }
 }
