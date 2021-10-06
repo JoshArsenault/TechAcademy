@@ -16,6 +16,7 @@ namespace TwentyOne
             Name = name;
         }
 
+        //place bet
         public bool Bet(int amount)
         {
             if (Balance - amount < 0)
