@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{3C3C8CDA-256E-4419-9494-9369540AD154}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="DateTimeAssignment/Program.cs">
     <Files>
-      <File FileName="DateTimeAssignment/Program.cs" Line="1" Column="1" />
+      <File FileName="DateTimeAssignment/Program.cs" Line="24" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DateTimeAssignment FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DateTimeAssignment PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
