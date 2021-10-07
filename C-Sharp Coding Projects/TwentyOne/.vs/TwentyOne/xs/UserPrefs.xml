@@ -3,20 +3,18 @@
     <Files>
       <File FileName="TwentyOne/Program.cs" Line="41" Column="28" />
       <File FileName="TwentyOne/Player.cs" Line="37" Column="1" />
-      <File FileName="TwentyOne/Game.cs" Line="23" Column="32" />
+      <File FileName="TwentyOne/Game.cs" Line="18" Column="93" />
       <File FileName="TwentyOne/TwentyOneGame.cs" Line="169" Column="54" />
-      <File FileName="TwentyOne/Dealer.cs" Line="13" Column="39" />
+      <File FileName="TwentyOne/Dealer.cs" Line="22" Column="36" />
       <File FileName="TwentyOne/Card.cs" Line="17" Column="60" />
-      <File FileName="TwentyOne/Deck.cs" Line="47" Column="46" />
-      <File FileName="TwentyOne/TwentyOneDealer.cs" Line="11" Column="28" />
-      <File FileName="TwentyOne/TwentyOneRules.cs" Line="76" Column="43" />
+      <File FileName="TwentyOne/Deck.cs" Line="23" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TwentyOne" expanded="True">
             <Node name="TwentyOne" expanded="True">
-              <Node name="TwentyOneGame.cs" selected="True" />
+              <Node name="Deck.cs" selected="True" />
             </Node>
           </Node>
         </State>
