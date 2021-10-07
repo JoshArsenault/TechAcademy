@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/bin/Debug/netcoreapp3.1/DateTimeAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/bin/Debug/netcoreapp3.1/DateTimeAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/bin/Debug/netcoreapp3.1/DateTimeAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/bin/Debug/netcoreapp3.1/DateTimeAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/bin/Debug/netcoreapp3.1/DateTimeAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/DateTimeAssignment/DateTimeAssignment/obj/Debug/netcoreapp3.1/DateTimeAssignment.genruntimeconfig.cache
