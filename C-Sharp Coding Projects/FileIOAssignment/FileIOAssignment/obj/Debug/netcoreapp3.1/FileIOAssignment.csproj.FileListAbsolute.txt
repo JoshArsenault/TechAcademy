@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/bin/Debug/netcoreapp3.1/FileIOAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/bin/Debug/netcoreapp3.1/FileIOAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/bin/Debug/netcoreapp3.1/FileIOAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/bin/Debug/netcoreapp3.1/FileIOAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/bin/Debug/netcoreapp3.1/FileIOAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/FileIOAssignment/FileIOAssignment/obj/Debug/netcoreapp3.1/FileIOAssignment.genruntimeconfig.cache

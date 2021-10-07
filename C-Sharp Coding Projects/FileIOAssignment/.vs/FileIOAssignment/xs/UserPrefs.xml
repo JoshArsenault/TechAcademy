@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9F596056-1A0A-4601-81A5-0273F4129E0A}|Default">
+  <MonoDevelop.Ide.ItemProperties.FileIOAssignment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileIOAssignment/Program.cs">
+    <Files>
+      <File FileName="FileIOAssignment/Program.cs" Line="17" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FileIOAssignment" expanded="True">
+            <Node name="FileIOAssignment" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
