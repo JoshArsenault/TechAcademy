@@ -11,6 +11,7 @@ namespace TwentyOne
         //dealer properties
         public string Name { get; set; }
         public Deck Deck { get; set; }
+
         public int Balance { get; set; }
 
         //deal cards

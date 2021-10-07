@@ -11,9 +11,10 @@ namespace TwentyOne
         //TwentyOneGame properties
         public TwentyOneDealer Dealer { get; set; }
 
-        //start game
+        //play() method (main)
         public override void Play()
         {
+            //getting started
             Dealer = new TwentyOneDealer();
 
             foreach (Player player in Players)
@@ -26,6 +27,7 @@ namespace TwentyOne
             Dealer.Deck = new Deck();
             Console.WriteLine("Place your bet!");
 
+            //configure player bets
             foreach (Player player in Players)
             {
                 int bet = Convert.ToInt32(Console.ReadLine());
@@ -37,6 +39,7 @@ namespace TwentyOne
                 Bets[player] = bet;
             }
 
+            //deal cards
             for (int i = 0; i < 2; i++)
             {
                 Console.WriteLine("Dealing...");
@@ -56,6 +59,7 @@ namespace TwentyOne
                     }
                     Console.Write("Dealer:");
                     Dealer.Deal(Dealer.Hand);
+                    //checks for win condition (blackjack)
                     if (i == 1)
                     {
                         bool blackJack = TwentyOneRules.CheckForBlackJack(Dealer.Hand);

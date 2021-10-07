@@ -8,6 +8,7 @@ namespace TwentyOne
 {
     public class TwentyOneRules
     {
+        //all possible face values
         private static Dictionary<Face, int> _cardValues = new Dictionary<Face, int>()
         {
             [Face.Two] = 2,
@@ -25,6 +26,7 @@ namespace TwentyOne
             [Face.Ace] = 1
         };
 
+        //all possible hand values
         private static int[] GetAllPossibleHandValues(List<Card> Hand)
         {
             int aceCount = Hand.Count(x => x.Face == Face.Ace);
@@ -40,6 +42,7 @@ namespace TwentyOne
             return result;
         }
 
+        //checks for blackjack
         public static bool CheckForBlackJack(List<Card> Hand)
         {
             int[] possibleValues = GetAllPossibleHandValues(Hand);
@@ -48,6 +51,7 @@ namespace TwentyOne
             else return false;
         }
 
+        //checks if busted
         public static bool IsBusted(List<Card> Hand)
         {
             int value = GetAllPossibleHandValues(Hand).Min();
@@ -55,6 +59,7 @@ namespace TwentyOne
             else return false;
         }
 
+        //decides if dealer should hold
         public static bool ShouldDealerStay(List<Card> Hand)
         {
             int[] possibleHandValues = GetAllPossibleHandValues(Hand);
@@ -68,6 +73,7 @@ namespace TwentyOne
             return false;
         }
 
+        //compare dealer hand to user hand
         public static bool? CompareHands(List<Card> PlayerHand, List<Card> DealerHand)
         {
             int[] playerResults = GetAllPossibleHandValues(PlayerHand);
