@@ -1,0 +1,13 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/bin/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/bin/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.runtimeconfig.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/bin/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.runtimeconfig.dev.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/bin/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/bin/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/AdditionalFeaturesAssignment/AdditionalFeaturesAssignment/obj/Debug/netcoreapp3.1/AdditionalFeaturesAssignment.genruntimeconfig.cache
