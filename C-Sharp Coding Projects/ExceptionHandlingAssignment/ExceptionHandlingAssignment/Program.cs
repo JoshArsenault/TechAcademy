@@ -22,15 +22,32 @@ namespace ExceptionHandlingAssignment
                     try
                     {
                         int age = Convert.ToInt32(Console.ReadLine());
-                        Console.WriteLine("You were born: " + currentDate.AddYears(-age).ToString("MMMM dd yyyy"));
-                        Console.ReadLine();
-                        isValid = true;
+                        if (age <= 0)
+                        {
+                            Console.WriteLine("Please enter a valid number");
+                        }
+                        else
+                        {
+                            Console.WriteLine("You were born: " + currentDate.AddYears(-age).ToString("MMMM dd yyyy"));
+                            Console.ReadLine();
+                            isValid = true;
+                        }
                     }
                     catch
                     {
                         Console.WriteLine("Something went wrong");
                         Console.WriteLine("Please enter your age");
                         int age = Convert.ToInt32(Console.ReadLine());
+                        if (age <= 0)
+                        {
+                            Console.WriteLine("Please enter a valid number");
+                        }
+                        else
+                        {
+                            Console.WriteLine("You were born: " + currentDate.AddYears(-age).ToString("MMMM dd yyyy"));
+                            Console.ReadLine();
+                            isValid = true;
+                        }
                         Console.WriteLine("You were born: " + currentDate.AddYears(-age).ToString("MMMM dd yyyy"));
                         Console.ReadLine();
                         isValid = true;
