@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -12,10 +13,12 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
 
+            Guid identifier = Guid.NewGuid();
 
             //intro & get player name
-            Console.WriteLine("Welcome to the Grand Hotel and Casino. Let's start by telling me your name.");
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
 
             //get player balance
@@ -29,6 +32,11 @@ namespace TwentyOne
             if (answer == "yes" || answer == "ya" || answer == "yeah")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
