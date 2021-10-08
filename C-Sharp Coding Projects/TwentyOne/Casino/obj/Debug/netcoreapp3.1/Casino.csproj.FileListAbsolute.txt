@@ -1,0 +1,10 @@
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/bin/Debug/netcoreapp3.1/Casino.deps.json
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/bin/Debug/netcoreapp3.1/Casino.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/bin/Debug/netcoreapp3.1/Casino.pdb
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.csproj.AssemblyReference.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfoInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.AssemblyInfo.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.csproj.CoreCompileInputs.cache
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.dll
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/Casino/obj/Debug/netcoreapp3.1/Casino.pdb
