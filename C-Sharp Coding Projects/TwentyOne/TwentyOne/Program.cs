@@ -38,10 +38,6 @@ namespace TwentyOne
             {
                 Player player = new Player(playerName, bank);
                 player.Id = Guid.NewGuid();
-                using (StreamWriter file = new StreamWriter(@"/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/TwentyOne/TwentyOne/log.txt", true))
-                {
-                    file.WriteLine(player.Id);
-                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.isActivelyPlaying = true;
