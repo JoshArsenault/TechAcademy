@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Casino/Player.cs" Line="1" Column="1" />
       <File FileName="Casino/Dealer.cs" Line="23" Column="37" />
-      <File FileName="Casino/TwentyOneGame.cs" Line="12" Column="52" />
+      <File FileName="Casino/TwentyOneGame.cs" Line="15" Column="24" />
       <File FileName="Casino/FraudException.cs" Line="9" Column="32" />
       <File FileName="TwentyOne/Program.cs" Line="40" Column="44" />
     </Files>
