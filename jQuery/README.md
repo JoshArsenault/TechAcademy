@@ -1,4 +1,4 @@
-# Tech Academy Boot Camp: jQuery
+# Tech Academy: jQuery
 
  Projects offered from the Tech Academy Boot Camp.
  [Check out the Tech Academy](https://www.learncodinganywhere.com/)
