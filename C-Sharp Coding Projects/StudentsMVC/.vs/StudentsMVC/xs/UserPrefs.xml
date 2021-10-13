@@ -1,4 +1,39 @@
 ﻿<Properties StartupConfiguration="{621981E1-CE0D-448A-97A8-FA9A1D441F66}|Default">
-  <MonoDevelop.Ide.ItemProperties.StudentsMVC FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="StudentsMVC/Controllers/HomeController.cs" Line="8" Column="1" />
+      <File FileName="StudentsMVC/Views/Home/Privacy.cshtml" Line="2" Column="50" />
+      <File FileName="StudentsMVC/Views/Home/Contact.cshtml" Line="20" Column="37" />
+      <File FileName="StudentsMVC/Views/Shared/_Layout.cshtml" Line="34" Column="127" />
+      <File FileName="StudentsMVC/Views/Home/Instructors.cshtml" Line="14" Column="6" />
+      <File FileName="StudentsMVC/Models/Instructor.cs" Line="10" Column="45" />
+      <File FileName="StudentsMVC/Controllers/StudentsController.cs" Line="15" Column="37" />
+      <File FileName="StudentsMVC/Views/Students/Index.cshtml" Line="6" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StudentsMVC" expanded="True">
+            <Node name="StudentsMVC" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Students" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StudentsMVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

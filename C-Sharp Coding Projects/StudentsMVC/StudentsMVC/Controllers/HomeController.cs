@@ -28,6 +28,37 @@ namespace StudentsMVC.Controllers
             return View();
         }
 
+        public IActionResult Contact()
+        {
+            return View();
+        }
+        public IActionResult Instructors()
+        {
+            List<Instructor> instructors = new List<Instructor>
+            {
+                new Instructor
+                {
+                    Id = 1,
+                    FirstName = "Rick",
+                    LastName = "Ramen"
+                },
+                new Instructor
+                {
+                    Id = 2,
+                    FirstName = "Brett",
+                    LastName = "Calendar"
+                },
+                new Instructor
+                {
+                    Id = 3,
+                    FirstName = "Adam",
+                    LastName = "Smithsonian"
+                }
+            };
+
+            return View(instructors);
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

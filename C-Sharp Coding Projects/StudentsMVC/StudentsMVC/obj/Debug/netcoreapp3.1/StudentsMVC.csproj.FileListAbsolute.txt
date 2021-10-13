@@ -35,3 +35,6 @@
 /Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/StudentsMVC.pdb
 /Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/StudentsMVC.genruntimeconfig.cache
 /Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/StudentsMVC.csproj.CopyComplete
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/Razor/Views/Home/Contact.cshtml.g.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/Razor/Views/Home/Instructors.cshtml.g.cs
+/Users/joshcummings/Documents/Github/TechAcademy/C-Sharp Coding Projects/StudentsMVC/StudentsMVC/obj/Debug/netcoreapp3.1/Razor/Views/Students/Index.cshtml.g.cs
