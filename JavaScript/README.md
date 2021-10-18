@@ -1,4 +1,4 @@
-# Tech Academy Boot Camp: Beginner Javascript Projects
+# Tech Academy: Beginner Javascript Projects
 
  Projects offered from the Tech Academy Boot Camp.
  [Check out the Tech Academy](https://www.learncodinganywhere.com/)
