@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-CarInsurance-316B9D29-E043-451E-A782-5F73DC4AF916</UserSecretsId>
+    <UserSecretsId>aspnet-CarInsurance-9C8E0CF0-A54F-4FB5-A436-BCC41360F82C</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
